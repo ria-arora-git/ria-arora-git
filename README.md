@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ria-arora-git
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently pursuing Bsc(hons) CS Degree from Delhi University
 - 💞️ I’m looking to collaborate on intermediate level projects to gain experience and grow as a developer.
 - 📫 How to reach me on linkedin : https://www.linkedin.com/in/ria-arora-9a91a6317/
