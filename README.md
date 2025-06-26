@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Ria Arora 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%9A%80;Full-stack+Explorer+with+React+%2B+Next.js;Learning+%F0%9F%93%9A+Growing+%F0%9F%8C%B1+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%9A%80;Full-stack+Explorer;Learning+%F0%9F%93%9A+Growing+%F0%9F%8C%B1+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
