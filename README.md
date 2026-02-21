@@ -55,4 +55,4 @@
 
 ---
 
-> *Great developers aren’t born — they’re built, one bug at a time.*
+> *I am here because i enjoy building.*
