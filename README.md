@@ -9,6 +9,17 @@
 
 ## 🛠 Tech Stack
 
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-black?logo=python)
+![NumPy](https://img.shields.io/badge/NumPy-black?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-black?logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow)
+![FAISS](https://img.shields.io/badge/FAISS-black)
+![Streamlit](https://img.shields.io/badge/Streamlit-black?logo=streamlit)
+
+---
+
 ### 🌐 Frontend (Web)
 ![HTML](https://img.shields.io/badge/HTML5-black?logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-black?logo=css3)
@@ -18,6 +29,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-black?logo=tailwindcss)
 
+---
+
 ### ⚙️ Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
@@ -25,9 +38,13 @@
 ![SQLite](https://img.shields.io/badge/SQLite-black?logo=sqlite)
 ![Prisma](https://img.shields.io/badge/Prisma-black?logo=prisma)
 
+---
+
 ### 📱 App Development
 ![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
 ![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
+
+---
 
 ### ☁️ Auth, Cloud & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-black?logo=firebase)
@@ -35,7 +52,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-
 ---
 
 ## 📚 Core Computer Science Subjects
