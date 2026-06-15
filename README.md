@@ -1,7 +1,7 @@
 # Hi, I'm Ria Arora 👋
 
 🎓 **B.Sc. (Hons) Computer Science** — University of Delhi  
-💻 AI & ML Engineer | Full-stack Developer  
+💻 Building AI-powered applications with Python, Machine Learning and Generative AI
 🌱 Working on app development  
 🤝 Open to collaborations  
 
